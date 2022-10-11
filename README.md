@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/dupf8tkd2qn0sp77?svg=true)](https://ci.appveyor.com/project/svetlanarykova/dz-2-4-bdd)
